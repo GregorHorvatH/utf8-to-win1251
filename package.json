@@ -1,0 +1,25 @@
+{
+  "name": "utf8-to-win1251",
+  "version": "1.0.3",
+  "description": "Converts unicode text to windows-1251",
+  "homepage": "https://github.com/GregorHorvatH/utf8-to-win1251",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GregorHorvatH/utf8-to-win1251.git"
+  },
+  "bugs": "https://github.com/GregorHorvatH/utf8-to-win1251/issues",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "convert",
+    "text",
+    "unicode",
+    "utf8",
+    "to",
+    "windows-1251",
+    "win1251"
+  ],
+  "author": "Gergely Horvath <gregor.horvath83@gmail.com>",
+  "license": "ISC"
+}
